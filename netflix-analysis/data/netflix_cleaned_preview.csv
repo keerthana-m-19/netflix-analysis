@@ -1,0 +1,21 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description,date_added_parsed,duration_minutes,genre
+s00001,Movie,Sample Title 1,Patty Jenkins,"Priyanka Chopra, Dev Patel",Canada,"July 03, 2018",1998,PG-13,73 min,Sci-Fi & Fantasy,An uplifting story about friendship and resilience.,1998-01-01,73,Sci-Fi & Fantasy
+s00002,TV Show,Sample Title 2,Greta Gerwig,"Rami Malek, Lucy Boynton",Brazil,"October 01, 2022",1991,TV-14,3 Seasons,Sci-Fi & Fantasy,A chilling horror that keeps you on edge.,1991-01-01,540,Sci-Fi & Fantasy
+s00003,Movie,Sample Title 3,Sofia Coppola,"Priyanka Chopra, Dev Patel",Unknown,"January 27, 2016",2000,TV-PG,127 min,Romantic Movies,A heartwarming family movie filled with emotions.,2000-01-01,127,Romantic Movies
+s00004,Movie,Sample Title 4,Denis Villeneuve,"Tom Holland, Jacob Batalon",India,"January 14, 2017",2014,PG-13,97 min,Romantic Movies,A romantic story that challenges destiny.,2014-01-01,97,Romantic Movies
+s00005,TV Show,Sample Title 5,Karan Johar,"Zendaya, Timothée Chalamet",Australia,"November 18, 2016",2008,G,8 Season,Reality TV,A high-octane adventure across continents.,2008-01-01,1440,Reality TV
+s00006,Movie,Sample Title 6,Taika Waititi,"Rami Malek, Lucy Boynton",Unknown,"March 31, 2019",1995,TV-14,75 min,Comedies,A chilling horror that keeps you on edge.,1995-01-01,75,Comedies
+s00007,TV Show,Sample Title 7,Bong Joon-ho,"Meryl Streep, Anne Hathaway",France,"December 26, 2019",2003,PG,27 Seasons,Comedies,A reality show full of surprises.,2003-01-01,4860,Comedies
+s00008,Movie,Sample Title 8,Patty Jenkins,"Rami Malek, Lucy Boynton",United Kingdom,"March 08, 2021",2014,PG,138 min,Sci-Fi & Fantasy,A high-octane adventure across continents.,2014-01-01,138,Sci-Fi & Fantasy
+s00009,TV Show,Sample Title 9,Greta Gerwig,"Robert Downey Jr., Chris Evans",Unknown,"July 16, 2019",2015,PG,1 Season,Comedies,A high-octane adventure across continents.,2015-01-01,180,Comedies
+s00010,TV Show,Sample Title 10,Martin Scorsese,"Mahershala Ali, Jharrel Jerome",United Kingdom,"December 20, 2018",1998,TV-14,16 Seasons,Sci-Fi & Fantasy,A futuristic sci-fi with stunning visuals.,1998-01-01,2880,Sci-Fi & Fantasy
+s00011,TV Show,Sample Title 11,Unknown,"Shah Rukh Khan, Kajol",Australia,"January 22, 2020",2004,R,7 Season,Sci-Fi & Fantasy,A crime saga revealing deep corruption.,2004-01-01,1260,Sci-Fi & Fantasy
+s00012,Movie,Sample Title 12,Wes Anderson,"Zendaya, Timothée Chalamet",United Kingdom,"January 14, 2023",2000,TV-PG,76 min,Reality TV,An uplifting story about friendship and resilience.,2000-01-01,76,Reality TV
+s00013,TV Show,Sample Title 13,Karan Johar,"Priyanka Chopra, Dev Patel",Brazil,"February 17, 2016",1997,PG,15 Seasons,Romantic Movies,An uplifting story about friendship and resilience.,1997-01-01,2700,Romantic Movies
+s00014,TV Show,Sample Title 14,David Fincher,"Priyanka Chopra, Dev Patel",Brazil,"January 01, 2018",2022,PG-13,15 Seasons,Children & Family Movies,A futuristic sci-fi with stunning visuals.,2022-01-01,2700,Children & Family Movies
+s00015,Movie,Sample Title 15,Bong Joon-ho,"Meryl Streep, Anne Hathaway",Brazil,"December 12, 2021",1990,G,89 min,Crime TV Shows,A gripping tale of ambition and betrayal.,1990-01-01,89,Crime TV Shows
+s00016,Movie,Sample Title 16,Unknown,"Priyanka Chopra, Dev Patel",Canada,"August 25, 2016",2005,PG-13,116 min,Comedies,A crime saga revealing deep corruption.,2005-01-01,116,Comedies
+s00017,Movie,Sample Title 17,Denis Villeneuve,"Meryl Streep, Anne Hathaway",United Kingdom,"May 26, 2023",2020,R,138 min,Children & Family Movies,A futuristic sci-fi with stunning visuals.,2020-01-01,138,Children & Family Movies
+s00018,TV Show,Sample Title 18,Denis Villeneuve,"Rami Malek, Lucy Boynton",Mexico,"June 30, 2019",2015,G,9 Season,Crime TV Shows,A futuristic sci-fi with stunning visuals.,2015-01-01,1620,Crime TV Shows
+s00019,TV Show,Sample Title 19,Ava DuVernay,"Tom Holland, Jacob Batalon",United States,"August 06, 2022",2004,TV-14,8 Seasons,"Dramas, International Movies",An uplifting story about friendship and resilience.,2004-01-01,1440,Dramas
+s00019,TV Show,Sample Title 19,Ava DuVernay,"Tom Holland, Jacob Batalon",United States,"August 06, 2022",2004,TV-14,8 Seasons,"Dramas, International Movies",An uplifting story about friendship and resilience.,2004-01-01,1440,International Movies
